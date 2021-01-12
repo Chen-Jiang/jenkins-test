@@ -1,4 +1,4 @@
-Public class Number {
+public class Number {
   int max_n = 10;
   public void printNum() {
     int n = 0;
