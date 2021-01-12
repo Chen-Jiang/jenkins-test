@@ -4,6 +4,7 @@ Public class Number {
     int n = 0;
     while (n<=max_n) {
       System.out.println("Print numbers here: " + n);
+      n++;
     }
   }
   
